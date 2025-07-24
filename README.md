@@ -1,4 +1,4 @@
-## Hi there, I'm Tanuja 
+## Hi there, I'm Tanuja 🖐️
 
 Welcome to my GitHub profile! I'm a passionate software developer and lifelong learner who loves turning ideas into amazing projects. Here’s everything you need to know about me.
 
@@ -28,3 +28,27 @@ Welcome to my GitHub profile! I'm a passionate software developer and lifelong l
 ## 🏆 Achievements
 - 🥇 
 ---
+
+---
+Just started out have a long way to go!
+
+## 💼 Professional Experience
+- **Technical Assistant @ [DPU COL](#)** _(Nov 2024 - June 2025)_
+  - At.
+
+---
+
+## 📚 What I’m Currently Learning
+- ****: Currently learning backend development with plans to build scalable, real-world projects soon.
+---
+
+## 💬 Let’s Connect!
+- **LinkedIn**: [Tanuja Kumari]()
+- **Leetcode**: [Leetcode](https://leetcode.com/u/taanuja/)
+- **Email**:[k.tanujaa05@gmail.com](mailto:k.tanujaa05@gmail.com)
+---
+
+### 🌟 Quote I Live By
+> "One day, in retrospect, the years of struggle will strike you as the most beautiful." – Sigmund Freud
+
+Thanks for visiting my profile! Feel free to explore my repositories and reach out for collaboration. 🚀
