@@ -49,6 +49,6 @@ Just started out have a long way to go!
 ---
 
 ### 🌟 Quote I Live By
-> "One day, in retrospect, the years of struggle will strike you as the most beautiful." – Sigmund Freud
+> "One day." – S
 
 Thanks for visiting my profile! Feel free to explore my repositories and reach out for collaboration. 🚀
